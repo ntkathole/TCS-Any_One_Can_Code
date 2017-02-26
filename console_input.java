@@ -1,3 +1,4 @@
+
 import java.io.*;
 class console_input
 {
